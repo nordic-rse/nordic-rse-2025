@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://nordic-rse.org/conference/"
+base_url = "https://nordic-rse.org/nordic-rse-2025/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
