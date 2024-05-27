@@ -17,3 +17,10 @@ This is a suggestion, we can change this as we go. My idea is to follow an endor
 - There are few things that cannot be public. For example communication with invited speakers, who
   have not yet accepted. This information is added when possible.
 - Every task should be an issue and be assigned, even if it does not result in any file changing. For example, setting up a registration form in an external service.
+
+
+
+## Tools for organizing tasks
+
+ - A checklist in a markdown document? Simple and easy to copy for next year.
+ - Project board? Quick to check issues and organize by status. Can we copy for next year?
