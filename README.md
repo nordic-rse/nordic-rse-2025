@@ -3,24 +3,42 @@
 The Nordic Research Software conference 2025 website and planning
 
 
-## How planning works
+You can preview the site locally using
+[Zola](https://www.getzola.org/documentation/getting-started/overview/):
 
-This is a suggestion, we can change this as we go. My idea is to follow an endorsement policy: One person makes suggests a decision. If a team member approves, it's official.
-
- 1. Discussion happens in issues.
- 2. Make a change as a pull request.
- 3. Someone in the organization team reviews the pull request.
- 4. If they approve, they merge directly. Anyone can merge an approved PR.
+```
+$ zola serve
+```
 
 
+## How this repository works
+
+This is a suggestion, we can change this as we go.
+
+My idea is to follow a single endorsement policy:
+ 1. Anyone can make a suggestion (formally by a pull request)
+ 2. Any conference organizer can merge (and should, if they approve)
+ 3. Organizers should not merge their own requests.
+
+- Discussions happen publicly in issues.
+- When there is an actual task to do, this should be a new issue and should be assigned. Tasks that are not assigned to a single person tend to not be done.
 - Information in this repository is official and nothing outside this repository is official.
 - There are few things that cannot be public. For example communication with invited speakers, who
   have not yet accepted. This information is added when possible.
-- Every task should be an issue and be assigned, even if it does not result in any file changing. For example, setting up a registration form in an external service.
 
 
+### The Website
 
-## Tools for organizing tasks
+The contents of the website are stored in `content/`. If you want to edit
+the website, this is usually what you are looking for. The main page is
+in `_index.md`.
 
- - A checklist in a markdown document? Simple and easy to copy for next year.
- - Project board? Quick to check issues and organize by status. Can we copy for next year?
+The `static` and `templates` folders are also related to building the website.
+
+
+### Documents
+
+Other planning documents are stored in the `documents` folder. These don't
+appear on the website.
+
+These include for example email templates, social media messages and meeting minutes.
