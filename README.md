@@ -1,6 +1,6 @@
 # Nordic RSE Conference 2025
 
-The Nordic Research Software conference 2025 website and planning
+Nordic Research Software conference 2025 website and planning.
 
 
 You can preview the site locally using
