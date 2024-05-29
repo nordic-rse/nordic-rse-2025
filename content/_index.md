@@ -13,9 +13,13 @@ Most research is already built on a foundation of sofware tools and the quality 
 
 ## Where
 
-In Gothernburg, Sweden. 
+In Gothernburg, Sweden.
 
-# How you can help
+## When
+
+Late spring, early summer?
+
+## How you can help
 
  - Encourage your colleagues to submit a contribution and/or join our association. Since the term RSE is still fairly new, they might not know about it yet and be hesitant to submit something.
  - [Share the announcement with others](/).
