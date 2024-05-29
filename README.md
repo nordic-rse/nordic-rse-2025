@@ -14,14 +14,17 @@ $ zola serve
 ## The Issues I Wanted to Fix
 
  - **Hidden conversations**
+   
    A lot of the planning for this conference happened in meetings. For a new volunteer or a participant, it's hard to gain ownership in the conference.
 
    Later we moved to Zulip and to coffee breaks. These are more accessible, but still not as public as I would like.
 
  - **Missed decisions**
+   
    We often made decisions in a meeting and forgot. We then had to go through the same conversation again. I want to clarify what counts as a decitions and make sure they are written down.
   
  - **Forgotten tasks**
+   
    Some things happened late or did not happen because no-one was assigned to do it.
 
 
