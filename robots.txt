@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://nordic-rse.org/nordic-rse-2025/sitemap.xml
